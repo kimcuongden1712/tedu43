@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{D3D918D1-776E-45A6-9266-41B838858AF2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indentity.API", "src\Indentity.API\Indentity.API.csproj", "{6ABB84D7-5050-4EAC-92DE-AB73CA566E4E}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.API", "src\Identity\Identity.API\Identity.API.csproj", "{6ABB84D7-5050-4EAC-92DE-AB73CA566E4E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examination", "Examination", "{0BC7C33D-A160-4DEE-9BFD-AF7A6398FE50}"
 EndProject
@@ -19,9 +19,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Examination.Infrastructure"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{7780CDD8-33AF-4741-8932-B0E79E6A70E7}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Indentity.API", "Indentity.API", "{583E1D4A-6F6B-4B6F-9A3A-55C9E2E61833}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Identity.API", "Identity\Identity.API", "{583E1D4A-6F6B-4B6F-9A3A-55C9E2E61833}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Indentity.API.IntegrationTests", "test\Indentity.API\Indentity.API.IntegrationTests\Indentity.API.IntegrationTests.csproj", "{36701FB3-4E72-428A-B907-3ED5FE9C5A4B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Identity.API.IntegrationTests", "test\Identity\Identity.API\Identity.API.IntegrationTests\Identity.API.IntegrationTests.csproj", "{36701FB3-4E72-428A-B907-3ED5FE9C5A4B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Examination", "Examination", "{87FF01A1-F52D-4704-9825-09A5FEAED4E3}"
 EndProject
